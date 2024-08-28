@@ -1,0 +1,20 @@
+#execicio1
+print("inicio")
+
+a = 10
+b = 20
+
+a = b
+b = 20
+
+print("a vale", a)
+print("b vale", b)
+
+print("vamos trocar os valores de A e B entre si !")
+#Aplicando algoritimo de troca de valores
+a = b
+b = a
+
+print ("a vale", a)
+print ("b vale", b)
+
